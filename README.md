@@ -1,2 +1,2 @@
-# trafficLightd
-Created with CodeSandbox
+# trafficLights
+Created with Visual Studio Code
