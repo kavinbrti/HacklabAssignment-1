@@ -1,2 +1,2 @@
-# trafficLightd
-Created with CodeSandbox
+# trafficLightAssignment
+Created with Visual studio code
